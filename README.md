@@ -1,4 +1,4 @@
-![Screenshot 1](/src/assets/screenshots_and_logo/logo.0ad964cb93ab30cc809d.webp)
+# 📱
 
 # Car rental
 
