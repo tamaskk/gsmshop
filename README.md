@@ -84,4 +84,3 @@ If you'd like to contribute to the project, please follow these guidelines:
 ![Screenshot 3](/src/assets/screenshots_and_logo/3.png)
 ![Screenshot 4](/src/assets/screenshots_and_logo/4.png)
 ![Screenshot 5](/src/assets/screenshots_and_logo/5.png)
-![Screenshot 6](/src/assets/screenshots_and_logo/6.png)
