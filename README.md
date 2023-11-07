@@ -1,46 +1,86 @@
-# Getting Started with Create React App
+# 📱
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Car rental
 
-## Available Scripts
+## Project Overview
 
-In the project directory, you can run:
+Introducing our GSM Shop App, your one-stop destination for all your mobile needs. Whether you're looking to repair your device or upgrade to a new phone, we've got you covered. With a user-friendly interface, our app allows you to easily browse and select from a wide range of services and products. Choose from a variety of repair services, filter by brand, model, and quality, and add them to your basket. Explore our collection of brand-new phones with customizable options, and add your favorite picks to the cart. Contact us with ease, access FAQs, and discover our best offers. It's the ultimate mobile shopping and repair experience, all in one app!
 
-### `npm start`
+## Made with
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- React
+- Typescript
+- TailwindCSS
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Usage
 
-### `npm test`
+To run the project locally, follow these steps:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Clone the repository: `git clone https://github.com/your-username/gsmshop.git`
+2. Navigate to the project directory: `cd gsmshop`
+3. Install dependencies: `npm install`
+4. Start the development server: `npm start`
+5. Open your web browser and visit `http://localhost:3000`
 
-### `npm run build`
+## Pages
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Main Page
+*Service Selection*: Users can choose between "Repair Service" or "Buy a New Phone."
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+*Why Choose Us*: Showcase reasons for choosing your shop, such as expertise, quality, or customer service.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+*Store Section: Display featured products or services.
 
-### `npm run eject`
+*Banner*: Use an eye-catching banner to convey promotions, important messages, or new arrivals.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+*Testimonials*: Include customer testimonials to build trust and credibility.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+*Best Offers*: Highlight the best deals or special offers available in your store.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+*FAQ*: Provide answers to frequently asked questions.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Footer: Include contact information, quick links, a newsletter subscription, and copyright details.
 
-## Learn More
+# Repair Service Page
+Filter Options: Users can filter repair services by brand, model, and type of service (e.g., screen repair, battery replacement).
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Quality Selection: Allow users to choose between "Aftermarket" or "Original" repair options.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Add to Basket: Users can select repair services and add them to the basket.
+
+# Product Page
+*Brand Selection*: Users can choose from different phone brands.
+
+*Model, Storage, and Color Filters*: Allow users to filter products by model, storage capacity, and color.
+
+*Product Details*: When a user clicks on a product, they can view detailed information, images, pricing, and descriptions.
+
+*Add to Cart*: Users can add products to their cart.
+
+# Contact Page
+*Contact Information*: Display contact details, including address, phone numbers, and email.
+
+*Shop Locations Slider*: Show a slider with images and information about your shop locations.
+
+*FAQ*: Include a section for frequently asked questions related to your shop or services.
+
+Navigation
+Implement a navigation menu that allows users to switch between the main page, repair service, product page, and contact page.
+
+## Contributing
+
+If you'd like to contribute to the project, please follow these guidelines:
+
+1. Fork the repository.
+2. Create a new branch for your feature: `git checkout -b feature-name`
+3. Commit your changes: `git commit -m 'Added feature-name'`
+4. Push to the branch: `git push origin feature-name`
+5. Create a pull request.
+
+## Screenshots
+
+![Screenshot 1](/src/assets/screenshots_and_logo/1.png)
+![Screenshot 2](/src/assets/screenshots_and_logo/2.png)
+![Screenshot 3](/src/assets/screenshots_and_logo/3.png)
+![Screenshot 4](/src/assets/screenshots_and_logo/4.png)
+![Screenshot 5](/src/assets/screenshots_and_logo/5.png)
