@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from "react-router-dom";
-import bg from '../assets/mike-petrucci-c9FQyqIECds-unsplash (1).jpg'
+import bg from '../assets/mike-petrucci-c9FQyqIECds-unsplash (1).webp'
 
 
 

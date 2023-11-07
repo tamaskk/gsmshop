@@ -1,7 +1,7 @@
 import { jsx as _jsx, jsxs as _jsxs } from "react/jsx-runtime";
-import img from "../assets/screen-post-svsKYetYPUI-unsplash.jpg";
-import port from '../assets/port.jpg';
-import screen from '../assets/screen.jpg';
+import img from "../assets/screen-post-svsKYetYPUI-unsplash.webp";
+import port from '../assets/port.webp';
+import screen from '../assets/screen.webp';
 import useAppContext from "../utils/Maincontext";
 import services from "../utils/Services";
 const ServiceInformation = () => {

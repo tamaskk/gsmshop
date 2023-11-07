@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import headerBG from "../assets/joel-rohland-MCL2xxjZJvs-unsplash.jpg";
+import headerBG from "../assets/joel-rohland-MCL2xxjZJvs-unsplash.webp";
 import allItems from "../utils/Database";
 import { useNavigate } from "react-router-dom";
 import useAppContext from "../utils/Maincontext";

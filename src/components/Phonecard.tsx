@@ -1,5 +1,5 @@
 import React from 'react'
-import iphone from '../assets/iphone.jpg'
+import iphone from '../assets/iphone.webp'
 
 const Phonecard: React.FC<{name: string, price: string}> = ({ name, price }) => {
   return (

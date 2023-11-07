@@ -1,15 +1,15 @@
-import iPhone1 from "../assets/iphone.jpg";
-import iPhone2 from "../assets/iphone2.jpg";
-import iPhone3 from "../assets/iphone3.jpg";
-import Samsung1 from "../assets/samsung.jpg";
-import Samsung2 from "../assets/samsung2.jpg";
-import Samsung3 from "../assets/samsung3.jpg";
-import Xiaomi1 from "../assets/xiaomi.jpg";
-import Xiaomi2 from "../assets/xiaomi2.jpg";
-import Xiaomi3 from "../assets/xiaomi3.jpg";
-import Huawei1 from "../assets/huawei.jpg";
-import Huawei2 from "../assets/huawei2.jpg";
-import Huawei3 from "../assets/huawei3.jpg";
+import iPhone1 from "../assets/iphone.webp";
+import iPhone2 from "../assets/iphone2.webp";
+import iPhone3 from "../assets/iphone3.webp";
+import Samsung1 from "../assets/samsung.webp";
+import Samsung2 from "../assets/samsung2.webp";
+import Samsung3 from "../assets/samsung3.webp";
+import Xiaomi1 from "../assets/xiaomi.webp";
+import Xiaomi2 from "../assets/xiaomi2.webp";
+import Xiaomi3 from "../assets/xiaomi3.webp";
+import Huawei1 from "../assets/huawei.webp";
+import Huawei2 from "../assets/huawei2.webp";
+import Huawei3 from "../assets/huawei3.webp";
 const allItems = [
     {
         id: 1,

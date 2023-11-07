@@ -1,9 +1,8 @@
 import React from "react";
 import useAppContext from "../utils/Maincontext.js";
 import allItems from "../utils/Database.js";
-import emptyCart from '../assets/img/cart/empty-cart.png'
 import serviceItems from '../utils/Services.js'
-import repair from '../assets/repair.jpg'
+import repair from '../assets/repair.webp'
 
 interface OverlayProps {
   children: React.ReactNode;

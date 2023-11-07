@@ -2,7 +2,7 @@ import { jsx as _jsx, jsxs as _jsxs } from "react/jsx-runtime";
 import useAppContext from "../utils/Maincontext.js";
 import allItems from "../utils/Database.js";
 import serviceItems from '../utils/Services.js';
-import repair from '../assets/repair.jpg';
+import repair from '../assets/repair.webp';
 const Overlay = ({ children }) => {
     const { cartOpened } = useAppContext();
     return (_jsx("div", { className: `fixed top-0 left-0 right-0 w-screen h-screen bg-black bg-opacity-70 transition-all duration-200 flex items-center justify-end ${cartOpened ? "opacity-1 z-[999999]" : "z-[-1] opacity-0"}`, children: children }));

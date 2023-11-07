@@ -1,6 +1,6 @@
-import battery from "../assets/screen-post-svsKYetYPUI-unsplash.jpg";
-import screen from "../assets/screen.jpg";
-import port from "../assets/port.jpg";
+import battery from "../assets/screen-post-svsKYetYPUI-unsplash.webp";
+import screen from "../assets/screen.webp";
+import port from "../assets/port.webp";
 
 const services = [
   {

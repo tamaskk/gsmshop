@@ -1,5 +1,5 @@
 import React from "react";
-import profile1 from "../assets/ben-den-engelsen-YUu9UAcOKZ4-unsplash.jpg";
+import profile1 from "../assets/ben-den-engelsen-YUu9UAcOKZ4-unsplash.webp";
 
 const Testimonialcard = () => {
   return (

@@ -1,9 +1,9 @@
 import React from "react";
 import Brandscard from "../components/Brandscard";
-import iPhone from "../assets/iphone.jpg";
-import Samsung from "../assets/samsung.jpg";
-import Xiaomi from "../assets/xiaomi.png";
-import Huawei from "../assets/huawei.jpg";
+import iPhone from "../assets/iphone.webp";
+import Samsung from "../assets/samsung.webp";
+import Xiaomi from "../assets/xiaomi.webp";
+import Huawei from "../assets/huawei.webp";
 
 const Brands = () => {
   return (

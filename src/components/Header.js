@@ -1,6 +1,6 @@
 import { jsx as _jsx, jsxs as _jsxs } from "react/jsx-runtime";
 import { useEffect, useState } from "react";
-import headerBG from "../assets/joel-rohland-MCL2xxjZJvs-unsplash.jpg";
+import headerBG from "../assets/joel-rohland-MCL2xxjZJvs-unsplash.webp";
 import allItems from "../utils/Database";
 import { useNavigate } from "react-router-dom";
 import useAppContext from "../utils/Maincontext";

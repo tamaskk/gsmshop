@@ -1,5 +1,5 @@
 import React from "react";
-import bg from "../assets/joel-rohland-MCL2xxjZJvs-unsplash.jpg";
+import bg from "../assets/joel-rohland-MCL2xxjZJvs-unsplash.webp";
 
 const Banner = () => {
   const bgStyle = {

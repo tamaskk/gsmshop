@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from "react-router-dom";
 import useAppContext from "../utils/Maincontext.js";
-import bg from '../assets/kevin-bhagat-Co-usQ-kpO0-unsplash.jpg'
+import bg from '../assets/kevin-bhagat-Co-usQ-kpO0-unsplash.webp'
 
 const SliderCard: React.FC = () => {
 

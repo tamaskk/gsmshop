@@ -1,5 +1,5 @@
 import { jsx as _jsx, jsxs as _jsxs } from "react/jsx-runtime";
-import bg from '../assets/mike-petrucci-c9FQyqIECds-unsplash (1).jpg';
+import bg from '../assets/mike-petrucci-c9FQyqIECds-unsplash (1).webp';
 const SliderCard = () => {
     const bgStyle = {
         backgroundSize: "cover",

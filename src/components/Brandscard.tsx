@@ -1,5 +1,5 @@
 import React from 'react'
-import iPhone from '../assets/iphone.jpg'
+import iPhone from '../assets/iphone.webp'
 import useAppContext from '../utils/Maincontext'
 import { Link, useNavigate } from 'react-router-dom'
 
